@@ -1,4 +1,4 @@
-# Workout Tracker Documentation
+# Mapty Documentation
 
 ## Overview
 The Workout Tracker is a JavaScript-based application that allows users to track their workout progress. It provides functionalities such as adding new exercises, logging workouts, and viewing previous records.
@@ -18,11 +18,11 @@ The Workout Tracker is a JavaScript-based application that allows users to track
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/farahmahfouz/workout-tracker.git
+   git clone https://github.com/farahmahfouz/Mapty.git
    ```
 2. Navigate to the project folder:
    ```sh
-   cd workout-tracker
+   cd mapty
    ```
 3. Open `index.html` in a web browser.
 
